@@ -1,5 +1,6 @@
 {
     "name": "meetjet/cashier-cloudpayments",
+    "type": "meetjet-package",
     "description": "Cashier Cloudpayments provides an expressive, fluent interface to CloudPayment's subscription billing services.",
     "keywords": ["laravel", "cloudpayments", "billing"],
     "license": "MIT",
@@ -15,6 +16,10 @@
         {
             "name": "Dries Vints",
             "email": "dries@laravel.com"
+        },
+        {
+            "name": "Zorca Orcinus",
+            "email": "vs@zorca.org"
         }
     ],
     "require": {
